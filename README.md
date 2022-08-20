@@ -1,7 +1,6 @@
 ## 你好！/Hello!/オッス！
 
-[![Rank](https://github-readme-stats.vercel.app/api?username=FurryR&show_icons=true)]()
-[![HitCount](https://github-readme-stats.vercel.app/api/top-langs/?username=FurryR&layout=compact)]()
+[![Rank](https://github-readme-stats.vercel.app/api?username=FurryR&show_icons=true)]()[![HitCount](https://github-readme-stats.vercel.app/api/top-langs/?username=FurryR&layout=compact)]()
 
 虽然我可以讲一点日语和英语，但如果可以的话请使用中文。
 
