@@ -12,19 +12,7 @@
 
 </div>
 
-<a href="https://github.com/FurryR">
-<picture>
-  <source
-    srcset="https://github-widgetbox.vercel.app/api/profile?username=FurryR&data=followers,repositories,stars,commits&theme=darkmode"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-widgetbox.vercel.app/api/profile?username=FurryR&data=followers,repositories,stars,commits"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=FurryR&data=followers,repositories,stars,commits" />
-</picture>
-</a>
+<img src="./assets/github-metrics.svg" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
