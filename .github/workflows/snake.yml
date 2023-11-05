@@ -20,11 +20,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          outputs:
+            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          branch: main
-          message: 'Generate Contribution Snake'
+          add: assets
+          message: ':construction: Generate contribution snake'
