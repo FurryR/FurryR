@@ -62,14 +62,14 @@
 
 <picture>
   <source
-    srcset="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,cpp,rust,json,yaml,markdown&theme=darkmode"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FurryR&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,cpp,rust,json,yaml,markdown"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FurryR&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,cpp,rust,json,yaml,markdown" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FurryR&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
