@@ -67,9 +67,9 @@
 
 <img align="right" width="88" src="https://openmoji.org/data/color/svg/E045.svg" />
 
-- [Awacorn](https://github.com/FurryR/Awacorn)：实验性的 C++ 11 无栈协程。
-- [scratch-chibi](https://github.com/SimonShiki/scratch-chibi)：可在各大 Scratch 编辑器中使用的插件加载器。
-- [secure-vm](https://github.com/FurryR/secure-vm)：适用于主流浏览器的最小透明沙箱环境。
+- [awacorn](https://github.com/FurryR/Awacorn)：实验性的 C++ 11 无栈协程。
+- [eureka](https://github.com/EurekaScratch/eureka)：可在各大 Scratch 编辑器中使用的扩展加载器。
+- [hyren](https://github.com/FurryR/Hyren)：在任意平台上使用 Turbowarp 特性，加速原版 Scratch 20 倍。
 - [clash-mixin](https://github.com/FurryR/clash-mixin)：适用于 Clash 的 mixin 管理器。
 
 </td></tr>
