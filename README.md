@@ -4,7 +4,7 @@
 
 # 🐺 凌
 
-> 只是一个普通人罢了。
+> [请救救我。](https://github.com/FurryR/esu)
 
 <div align="center">
 
@@ -27,19 +27,25 @@
 <table>
 <tr><td>
 
-### ❤️ 自我介绍
+### 🐺 自我介绍
 
 <img align="right" width="88" src="https://openmoji.org/data/color/svg/1F43E.svg" />
 
-&emsp;&emsp;初次见面，亦或者好久不见，我是熊谷凌，一位 15 岁的极客。
+&emsp;&emsp;你好。这里是熊谷凌，略称熊谷先生或凌（关系近的可以叫凌狗狗），16 岁无所事事的学生，互联网小丑。
 
-&emsp;&emsp;我热爱 Furry 相关的一切事物和人，即使他们可能伤害过我。
+&emsp;&emsp;我是个很无趣的人，没有任何兴趣爱好，也没有擅长的东西，可能唯一能拿得出手的就是 NSFW 相关了。
 
-&emsp;&emsp;兴趣爱好是编程和打音游，除此之外的事情就没怎么接触过了，可能算有点没见过世面吧。
+&emsp;&emsp;明明自己无数次说着想要去死，最后还是没有勇气。以为自己有精神疾病也十分痛苦，但还是没有去看医生，
 
-&emsp;&emsp;如果可能的话，我希望能用自己的代码，去帮助一些真正需要帮助的人。
+&emsp;&emsp;简直跟网上黑化抑郁的小学生一样傻逼。
 
-我正在积极寻找新的朋友。如果可以的话请务必和我[交个朋友](#-和我联系)！<img width=1000 />
+&emsp;&emsp;一开始，我可能会尽量找话题，但最后大家也就这么谈不妥，散掉了。
+
+&emsp;&emsp;因此请确保有问题时再来找我，不然我可能会聊着聊着就开始内耗。
+
+由于高中学业安排问题，没办法怎么使用之前视若珍宝的互联网了。
+
+然而如果你不介意我的历史问题和精神状态，不妨[交个朋友](#-和我联系)，说不定我哪天就到你床上了呢。<img width=1000 />
 
 </td></tr>
 <tr><td>
@@ -67,10 +73,12 @@
 
 <img align="right" width="88" src="https://openmoji.org/data/color/svg/E045.svg" />
 
-- [awacorn](https://github.com/FurryR/Awacorn)：实验性的 C++ 11 无栈协程。
+- [TurboWarp](https://github.com/TurboWarp/scratch-vm)：无偿劳动力。
 - [eureka](https://github.com/EurekaScratch/eureka)：可在各大 Scratch 编辑器中使用的扩展加载器。
 - [hyren](https://github.com/FurryR/Hyren)：在任意平台上使用 Turbowarp 特性，加速原版 Scratch 20 倍。
-- [clash-mixin](https://github.com/FurryR/clash-mixin)：适用于 Clash 的 mixin 管理器。
+- [kylin](https://github.com/FurryR/kylin-extension)：Scratch 作品混淆器。
+
+> _几乎都是 Scratch 啊... 你就不能干点正事么？_
 
 </td></tr>
 
@@ -83,7 +91,7 @@
 我有很多种联系方式... 你可以找一个你那边最方便的。
 
 - [3577721071](https://qm.qq.com/q/QlGgZqe2aW&personal_qrcode_source=3)&nbsp;&nbsp;📌 -- 常用
-- [@im_furryr](discord.com/users/im_furryr)&nbsp;&nbsp;🎮 -- 部分游戏相关
+- [@im_furryr](https://discord.com/users/im_furryr)&nbsp;&nbsp;🎮 -- 部分游戏相关
 - [@DevRinOwO](https://t.me/DevRinOwO)&nbsp;&nbsp;🔐 -- 安全
 - [@xnu11ptr](https://x.com/xnu11ptr)&nbsp;&nbsp;💬 -- 各种想法(不常用)
 - [3191632795](https://qm.qq.com/q/GVAI4qOcqO&personal_qrcode_source=3)&nbsp;&nbsp;🖐️ -- 已废弃
@@ -97,8 +105,8 @@
 
 <div align="center">
 
-_`Copyright (c) 2023 FurryR. All rights reserved.`_
+_`Copyright (c) 2024 FurryR. All rights reserved.`_
 
-❤️
+🥲
 
 </div>
