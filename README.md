@@ -93,7 +93,7 @@
 - [3577721071](https://qm.qq.com/q/QlGgZqe2aW&personal_qrcode_source=3)&nbsp;&nbsp;📌 -- 常用
 - [@im_furryr](https://discord.com/users/im_furryr)&nbsp;&nbsp;🎮 -- 部分游戏相关
 - [@DevRinOwO](https://t.me/DevRinOwO)&nbsp;&nbsp;🔐 -- 安全
-- [@xnu11ptr](https://x.com/xnu11ptr)&nbsp;&nbsp;💬 -- 各种想法(不常用)
+- [@___FurryR_AD](https://x.com/___FurryR_AD)&nbsp;&nbsp;💬 -- 表里合一推特 (NSFW 注意)
 - [3191632795](https://qm.qq.com/q/GVAI4qOcqO&personal_qrcode_source=3)&nbsp;&nbsp;🖐️ -- 已废弃
 - [awathefox@gmail.com](mailto:awathefox@gmail.com)&nbsp;&nbsp;🏢 -- 正式的
 
