@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Avatar](https://avatars.githubusercontent.com/u/55276797?v=4)](https://github.com/FurryR)
+[![もうすぐ、痛みのない世界へ。null先生、会いに行くよ。](https://avatars.githubusercontent.com/u/55276797?v=4)](https://github.com/FurryR)
 
 # 🐺 凌
 
