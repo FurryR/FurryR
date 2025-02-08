@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](#-和我联系) [![Discord](https://img.shields.io/badge/Discord-darkblue?style=flat-square&logo=discord)](#-和我联系) [![Email](https://img.shields.io/badge/Email-green?style=flat-square&logo=gmail)](#-和我联系) [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X)](#-和我联系) [![Visitors](https://hits.dwyl.com/FurryR/FurryR.svg?style=flat-square)](http://github.com/FurryR)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](#-和我联系) [![Discord](https://img.shields.io/badge/Discord-darkblue?style=flat-square&logo=discord)](#-和我联系) [![Email](https://img.shields.io/badge/Email-green?style=flat-square&logo=gmail)](#-和我联系) [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X)](#-和我联系) [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFurryR&label=Visitors&countColor=%2337d67a&style=flat-square)](http://github.com/FurryR)
 
 </div>
 
