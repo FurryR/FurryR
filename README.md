@@ -4,7 +4,8 @@
 
 # 🐺 熊谷 凌
 
-> _随风飘散。_
+> 何もかもがあざやかに見えて
+> すぐに消えてしまう
 
 </div>
 
@@ -14,7 +15,7 @@ import { Nullqwertyuiop } from 'https://github.com/Nullqwertyuiop'
 class FurryR extends Nullqwertyuiop {
   readonly name: string = '熊谷 凌'
   description: string = '什么都写的全栈(?)工程师'
-  age: number = 16
+  age: number = 17
   readonly contacts: Map<string, string> = new Map([
     ['Discord', 'https://discord.com/users/im_furryr'],
     ['Telegram', 'https://t.me/@DevRinOwO'],
